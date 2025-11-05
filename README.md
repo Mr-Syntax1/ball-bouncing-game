@@ -1,6 +1,9 @@
 # ball-bouncing-game
 Small canvas physics and dynamic project for practicing HTML canvas and JavaScript animations.
 
+<img width="1899" height="882" alt="Screenshot1" src="https://github.com/user-attachments/assets/dd2fd4c9-0367-432f-a6d7-bf6221eb2d23" />
+
+
 # Ball Bouncing Game
 
 A simple physics-based bouncing ball game built using **HTML**, **CSS** and **Vanilla JavaScript**.
