@@ -1,2 +1,50 @@
 # ball-bouncing-game
 Small canvas physics and dynamic project for practicing HTML canvas and JavaScript animations.
+
+# Ball Bouncing Game
+
+A simple physics-based bouncing ball game built using **HTML**, **CSS** and **Vanilla JavaScript**.
+
+In this game multiple balls bounce around the screen.  
+Each ball is affected by gravity and friction.  
+
+---
+
+## 🎯 Goal
+I built this project to practice canvas animation, physics simulation, and JavaScript classes.
+
+This project is based on a YouTube tutorial that I followed as a learning exercise.
+
+---
+
+## 📂 Files
+
+| File | Description |
+|------|-------------|
+| `index.html` | main HTML file |
+| `style.css` | styling |
+| `gravity.js` | JavaScript animation + physics logic |
+
+---
+
+## 🚀 Future improvements
+
+- adding collision detection between balls  
+- adding UI to change gravity or friction  
+- adding score system
+
+---
+
+## 🧠 What I learned in this project:
+
+- how `requestAnimationFrame` works  
+- how to draw on HTML Canvas  
+- how to use classes in JS  
+- how to implement gravity + friction formulas
+
+---
+
+## 👤 Author
+Built by GHOST (using a YouTube instructor as a learning reference)
+
+---
