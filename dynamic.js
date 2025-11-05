@@ -48,17 +48,14 @@ for (let i = 0; i < 8 ;i++) {
 }
 
 function animate() {
-    // c.fillStyle = "rgba(0, 0, 0, 0.1)" // رنگ مشکی با شفافیت
-    // c.fillRect(0, 0, window.innerWidth, window.innerHeight)
-    c.clearRect(0,0,window.innerWidth,window.innerHeight)//برای fps
-    balls.forEach(ball => {
-    ball.update()
-})
+    c.fillStyle = "rgba(0, 0, 0, 0.1)"
+    c.fillRect(0, 0, window.innerWidth, window.innerHeight)
 
+    balls.forEach(ball => ball.update())
 
-
-    requestAnimationFrame(animate);
+    requestAnimationFrame(animate)
 }
+
 window.addEventListener('click',(e)=>{
     balls.push(new Ball(e.clientX,e.clientY))
 })
