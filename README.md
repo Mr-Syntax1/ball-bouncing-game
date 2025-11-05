@@ -10,6 +10,17 @@ Each ball is affected by gravity and friction.
 
 ---
 
+## 🔴 Live Demo
+
+You can play the game online here:
+
+👉 [https://mr-syntax1.github.io/ball-bouncing-game/]
+
+*(replace USERNAME with your GitHub username)*
+
+---
+
+
 ## 🎯 Goal
 I built this project to practice canvas animation, physics simulation, and JavaScript classes.
 
