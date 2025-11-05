@@ -56,6 +56,6 @@ This project is based on a YouTube tutorial that I followed as a learning exerci
 ---
 
 ## 👤 Author
-Built by GHOST (using a YouTube instructor as a learning reference)
+Built by Mr-Syntax1 (using a YouTube instructor as a learning reference)
 
 ---
