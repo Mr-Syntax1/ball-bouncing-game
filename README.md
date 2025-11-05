@@ -24,7 +24,7 @@ This project is based on a YouTube tutorial that I followed as a learning exerci
 | `index.html` | main HTML file |
 | `style.css` | styling |
 | `gravity.js` | JavaScript animation + physics logic |
-
+| `dynamic.js` | JavaScript file for user-created balls that bounce around without gravity (balls are added when user clicks on canvas) |
 ---
 
 ## 🚀 Future improvements
